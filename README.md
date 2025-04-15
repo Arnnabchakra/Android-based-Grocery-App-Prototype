@@ -65,7 +65,7 @@ This prototype lays the groundwork for future development:
 
 ## 📸 Screenshots
 
-> *You can add screenshots here to showcase your app UI*
+![Image Alt](https://github.com/Arnnabchakra/Android-based-Grocery-App-Prototype/blob/9eb6c80b079e1a3cd59e7b6c448750483185c6d0/Main%20page.jpg)
 
 ---
 
