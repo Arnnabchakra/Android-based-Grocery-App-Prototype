@@ -66,8 +66,9 @@ This prototype lays the groundwork for future development:
 ## 📸 Screenshots
 
 ![Image Alt](https://github.com/Arnnabchakra/Android-based-Grocery-App-Prototype/blob/9eb6c80b079e1a3cd59e7b6c448750483185c6d0/Main%20page.jpg)
-
----
+![Image Alt](https://github.com/Arnnabchakra/Android-based-Grocery-App-Prototype/blob/edd6ed3bbc31f4c44ff7a1b7b1b7ea2c899ca0a7/page2.jpg)
+![Image Alt]()
+![Image Alt]()
 
 ## 📚 Ideal For
 
