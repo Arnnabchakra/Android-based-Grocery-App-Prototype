@@ -67,8 +67,8 @@ This prototype lays the groundwork for future development:
 
 ![Image Alt](https://github.com/Arnnabchakra/Android-based-Grocery-App-Prototype/blob/9eb6c80b079e1a3cd59e7b6c448750483185c6d0/Main%20page.jpg)
 ![Image Alt](https://github.com/Arnnabchakra/Android-based-Grocery-App-Prototype/blob/edd6ed3bbc31f4c44ff7a1b7b1b7ea2c899ca0a7/page2.jpg)
-![Image Alt]()
-![Image Alt]()
+![Image Alt](https://github.com/Arnnabchakra/Android-based-Grocery-App-Prototype/blob/39a0a5654f8e02cab91559ca684353573c745fe0/order%20page.jpg)
+![Image Alt](https://github.com/Arnnabchakra/Android-based-Grocery-App-Prototype/blob/39a0a5654f8e02cab91559ca684353573c745fe0/last%20page.jpg)
 
 ## 📚 Ideal For
 
